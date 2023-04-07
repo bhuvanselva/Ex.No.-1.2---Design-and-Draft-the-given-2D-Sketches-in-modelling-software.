@@ -37,7 +37,11 @@
 
  ## OUTPU https://github.com/bhuvanselva/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software..git
  
-![image](https://user-images.githubusercontent.com/119847426/230619493-8008107c-3238-4c46-bfa8-d519eaa92ede.png)
+ ![image](https://user-images.githubusercontent.com/119847426/230621017-5b427b50-f949-43e3-a835-e1c4316433bc.png)
+
+ 
+ 
+
 
  
  
